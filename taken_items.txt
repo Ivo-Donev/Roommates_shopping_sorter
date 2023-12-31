@@ -1,8 +1,0 @@
-Beer (Requested: 2.0, Taken: 5): $2.58
-Bread (Requested: 1.0, Taken: 1): $2.20
-Oil (Requested: 2, Taken: 2): $13.98
-Rum (Requested: 1, Taken: 1): $12.59
-Milk (Requested: 2.0, Taken: 3): $3.18
-Tomatoes (Requested: 1.0, Taken: 1): $5.60
-Mozzarella (Requested: 2, Taken: 2): $3.60
-Water (Requested: 1.0, Taken: 4): $2.40
